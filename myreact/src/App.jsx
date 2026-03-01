@@ -1,11 +1,11 @@
 import './App.css'
-import StudentList from './StudentList'
+import LoginForm from './LoginForm'
 
 function App() {
   return (
     <>
       <div>
-        <StudentList />
+        <LoginForm />
       </div>
     </>
   )
