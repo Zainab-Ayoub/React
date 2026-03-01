@@ -1,11 +1,11 @@
 import './App.css'
-import Theme from './Theme'
+import GlobalData from './GlobalData'
 
 function App() {
   return (
     <>
       <div>
-        <Theme />
+        <GlobalData />
       </div>
     </>
   )
