@@ -1,11 +1,11 @@
 import './App.css'
-import ParentComponent from './ParentComponent'
+import PasswordFeature from './PasswordFeature'
 
 function App() {
   return (
     <>
       <div>
-        <ParentComponent />
+        <PasswordFeature />
       </div>
     </>
   )
