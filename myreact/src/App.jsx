@@ -1,11 +1,11 @@
 import './App.css'
-import GlobalData from './GlobalData'
+import DeleteItem from './DeleteItem'
 
 function App() {
   return (
     <>
       <div>
-        <GlobalData />
+        <DeleteItem />
       </div>
     </>
   )
