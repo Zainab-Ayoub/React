@@ -1,11 +1,11 @@
 import './App.css'
-import PasswordFeature from './PasswordFeature'
+import Theme from './Theme'
 
 function App() {
   return (
     <>
       <div>
-        <PasswordFeature />
+        <Theme />
       </div>
     </>
   )
