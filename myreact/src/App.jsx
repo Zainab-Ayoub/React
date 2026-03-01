@@ -1,11 +1,11 @@
 import './App.css'
-import LoginForm from './LoginForm'
+import ParentComponent from './ParentComponent'
 
 function App() {
   return (
     <>
       <div>
-        <LoginForm />
+        <ParentComponent />
       </div>
     </>
   )
